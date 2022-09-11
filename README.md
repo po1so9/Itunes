@@ -9,8 +9,7 @@
 
 This simple project is completely based on python programming language.
 I used itune API for getting the top fifty songs of a perticular artist.
-The program ask the user to provide the name of an artist and gives back a list of fifty songs of that artist.
-
+The program asks the user to provide an artist's name and gives back a list of fifty songs by that artist.
 ## Technologies
 Project is created with:
 * python 3.10.6
